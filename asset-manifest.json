@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/promoharmony/static/css/main.501b9991.css",
-    "main.js": "/promoharmony/static/js/main.a0314770.js",
+    "main.js": "/promoharmony/static/js/main.a24f4f8c.js",
     "static/media/BrysonRevenge.mp3": "/promoharmony/static/media/BrysonRevenge.226c3770ce089dab5890.mp3",
     "static/media/dyingalone.mp3": "/promoharmony/static/media/dyingalone.f1e03db81dd3d43aa1af.mp3",
     "static/media/yvng-xen.jpeg": "/promoharmony/static/media/yvng-xen.277c27da33ce803fa60a.jpeg",
     "index.html": "/promoharmony/index.html",
     "main.501b9991.css.map": "/promoharmony/static/css/main.501b9991.css.map",
-    "main.a0314770.js.map": "/promoharmony/static/js/main.a0314770.js.map"
+    "main.a24f4f8c.js.map": "/promoharmony/static/js/main.a24f4f8c.js.map"
   },
   "entrypoints": [
     "static/css/main.501b9991.css",
-    "static/js/main.a0314770.js"
+    "static/js/main.a24f4f8c.js"
   ]
 }
