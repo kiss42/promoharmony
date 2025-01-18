@@ -1,17 +1,21 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { Routes, Route, Navigate } from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import ArtistPage from "./pages/ArtistPage";
 
-function App() {
+const App = () => {
   return (
-    <Router>
-      <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="/artist/:artistId" element={<ArtistPage />} /> {/* Route must match */}
-      </Routes>
-    </Router>
+    <Routes>
+      {/* Home Route */}
+      <Route path="/" element={<HomePage />} />
+
+      {/* Dynamic Artist Route */}
+      <Route path="/artist/:artistId" element={<ArtistPage />} />
+
+      {/* Redirect unmatched paths to the homepage */}
+      <Route path="*" element={<Navigate to="/" />} />
+    </Routes>
   );
-}
+};
 
 export default App;
