@@ -62,6 +62,30 @@ const artists = [
             volume: 0.5,
           },
     },
+    {
+        id: "funnyasschri2",
+        name: "FunnyAssChris",
+        type: "content creator",
+        tagline: "Gay Black Comedian Serving Laughs Nonstop.",
+        bio: `Chris is a hilarious and unapologetic Black gay comedian who uses his unique perspective to create 
+          laugh-out-loud content that resonates with his audience. His Instagram is a hub of joy, where he pokes 
+          fun at life's absurdities and brings levity to everyday struggles. \n\n
+          Known for his quick wit and over-the-top skits, Chris's humor is a reflection of his vibrant personality. 
+          Whether he’s riffing on pop culture, relationships, or just the chaos of day-to-day life, Chris delivers 
+          pure comedic gold. \n\n
+          Follow Chris to escape the stress of life and dive into a world where laughter is the only priority..`,
+        image: "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7352084554884055082~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=85957&refresh_token=776fd0fdcb78357a87b6c12868eba158&x-expires=1737410400&x-signature=voi27fS2cF0e%2B9QDzbgUG%2FCF358%3D&shp=a5d48078&shcp=81f88b70", // Replace with the correct image if available
+        links: [
+          { platform: "TikTok", url: "https://www.tiktok.com/@funnyasschri2" },
+          { platform: "Instagram", url:"https://www.instagram.com/funnyasschri2/?hl=en"},
+        ],
+        design: {
+          backgroundColor: "bg-gradient-to-r from-blue-500 to-purple-500",
+          textColor: "text-white",
+          layout: "photo-left",
+          accentColor: "text-yellow-400",
+        },
+    }
   ];
   
   export default artists;
