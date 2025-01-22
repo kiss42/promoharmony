@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/promoharmony/static/css/main.2fa79fae.css",
-    "main.js": "/promoharmony/static/js/main.f777d5fb.js",
+    "main.css": "/promoharmony/static/css/main.86607b23.css",
+    "main.js": "/promoharmony/static/js/main.1db218b9.js",
     "static/media/BrysonRevenge.mp3": "/promoharmony/static/media/BrysonRevenge.226c3770ce089dab5890.mp3",
     "static/media/dyingalone.mp3": "/promoharmony/static/media/dyingalone.f1e03db81dd3d43aa1af.mp3",
     "static/media/yvng-xen.jpeg": "/promoharmony/static/media/yvng-xen.277c27da33ce803fa60a.jpeg",
     "static/media/kris.jpeg": "/promoharmony/static/media/kris.3c2e4385f0bba344fcfc.jpeg",
     "static/media/promoharmoney.jpg": "/promoharmony/static/media/promoharmoney.3683edbfd72597f62732.jpg",
     "index.html": "/promoharmony/index.html",
-    "main.2fa79fae.css.map": "/promoharmony/static/css/main.2fa79fae.css.map",
-    "main.f777d5fb.js.map": "/promoharmony/static/js/main.f777d5fb.js.map"
+    "main.86607b23.css.map": "/promoharmony/static/css/main.86607b23.css.map",
+    "main.1db218b9.js.map": "/promoharmony/static/js/main.1db218b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fa79fae.css",
-    "static/js/main.f777d5fb.js"
+    "static/css/main.86607b23.css",
+    "static/js/main.1db218b9.js"
   ]
 }
