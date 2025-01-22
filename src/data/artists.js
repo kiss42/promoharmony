@@ -74,7 +74,7 @@ const artists = [
           Whether he’s riffing on pop culture, relationships, or just the chaos of day-to-day life, Chris delivers 
           pure comedic gold. \n\n
           Follow Chris to escape the stress of life and dive into a world where laughter is the only priority..`,
-        image: "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7352084554884055082~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=85957&refresh_token=776fd0fdcb78357a87b6c12868eba158&x-expires=1737410400&x-signature=voi27fS2cF0e%2B9QDzbgUG%2FCF358%3D&shp=a5d48078&shcp=81f88b70", // Replace with the correct image if available
+        image: require("../assets/kris.jpeg"), // Replace with the correct image if available
         links: [
           { platform: "TikTok", url: "https://www.tiktok.com/@funnyasschri2" },
           { platform: "Instagram", url:"https://www.instagram.com/funnyasschri2/?hl=en"},
